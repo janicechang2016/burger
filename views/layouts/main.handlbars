@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		
+		<title>Eat-Da-Burger!</title>
+
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+		<!--insert css link here-->
+		
+	</head>
+	<body>
+
+		<img src="https://rlv.zcache.com/kawaii_hamburger_classic_round_sticker-r7a5a384193724e54aae84873d2c108dd_v9waf_8byvr_324.jpg" width="350px">
+
+		{{{ body }}}
+	</body>
+</html>
